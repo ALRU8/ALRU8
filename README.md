@@ -124,9 +124,5 @@ Status:   Open for team collaboration
 ---
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVucTV4aTBuM3JsaGo2Y2tkZWoyNGoxdzdzem5wMHRieWkzd2tycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="220" alt="hacker vibe" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRvejFmZ3pxbmNieHl3dDVydmxzZXhzdWR1ZWx3ZGNzOHk0OHF4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYLoPRwqwzkYJ1e/giphy.gif" height="220" alt="hacker vibe" />
 </div>
-
----
-
-<img src="https://raw.githubusercontent.com/ALRU8/ALRU8/output/snake.svg" alt="Snake animation" />
