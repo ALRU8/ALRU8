@@ -43,8 +43,7 @@ Robotics:
 ## 📡 CURRENT MISSION
 
 Backend development<br/>
-Mathematical expectation calculations for:<br/>
-https://gooddrop.is/
+Mathematical expectation calculations for:<br/> https://gooddrop.is/
 
 ---
 
