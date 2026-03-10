@@ -42,7 +42,7 @@ Robotics:
 
 ## 📡 CURRENT MISSION
 
- - Backend development and Mathematical expectation calculations for <br/> https://gooddrop.is/
+ - Backend development and Mathematical expectation calculations for https://gooddrop.is/
  - Intern at PUZZLE SYSTEMS (https://puzzle.systems/)
 
 ---
