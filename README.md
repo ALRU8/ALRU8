@@ -54,7 +54,6 @@ Robotics:
   <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap" />
   <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="chrome" />
   <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker" />
