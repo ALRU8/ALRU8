@@ -45,6 +45,7 @@ Robotics:
 Backend development<br/>
 Mathematical expectation calculations for:<br/> https://gooddrop.is/
 
+Intern at PUZZLE SYSTEMS (web site: https://puzzle.systems/)
 ---
 
 ## 🛠 Arsenal
