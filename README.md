@@ -38,7 +38,7 @@ Motto:   Break. Understand. Rebuild.
     <td align="center" width="25%"><b>Robotics</b><br/>Arduino · PyFirmata2<br/>QR navigation<br/>Vision automation</td>
   </tr>
   <tr>
-    <td align="center" colspan="4"><b>CTF / Cybersecurity</b><br/>Web security · Linux privilege escalation · Recon mindset · Secure backend design · Exploit analysis</td>
+    <td align="center" colspan="4"><b>CTF / Cybersecurity</b><br/>Web security · OSINT · Linux privilege escalation · Recon mindset · Secure backend design · Exploit analysis</td>
   </tr>
 </table>
 
@@ -52,8 +52,6 @@ Motto:   Break. Understand. Rebuild.
 |---|---|
 | 🎯 Product | Backend development and mathematical expectation calculations for <a href="https://gooddrop.is/">gooddrop.is</a> |
 | 🧩 Internship | Intern at <a href="https://puzzle.systems/">PUZZLE SYSTEMS</a> |
-| ⚙️ Direction | Backend systems, ML validation, cybersecurity practice, robotics control layers |
-| 🤝 Status | Open for team collaboration |
 
 </div>
 
@@ -78,13 +76,6 @@ Motto:   Break. Understand. Rebuild.
   <img src="https://cdn.simpleicons.org/ros/22314E" height="42" alt="ros" />
 </p>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Web%20Security-ff0055?style=for-the-badge&logo=hackthebox&logoColor=white" alt="web security" />
-  <img src="https://img.shields.io/badge/CTF-Recon%20%7C%20Crypto%20%7C%20Web-00ff88?style=for-the-badge&logo=tryhackme&logoColor=white" alt="ctf" />
-  <img src="https://img.shields.io/badge/Linux-Privilege%20Escalation-111111?style=for-the-badge&logo=linux&logoColor=00ff88" alt="linux privilege escalation" />
-</p>
-
 ---
 
 <h2 align="center">🛡️ CTF / CYBERSECURITY</h2>
@@ -93,22 +84,10 @@ Motto:   Break. Understand. Rebuild.
 $ nmap --profile ALRU8
 
 Target:        Web apps, backend APIs, Linux boxes
-CTF Focus:     Recon, web exploitation, crypto basics, reverse engineering basics
+CTF Focus:     Recon, web exploitation, crypto basics, reverse engineering basics, OSINT
 Security Mode: Think like an attacker, build like a defender
 Backend Rule:  Every endpoint is an attack surface
 ```
-
-<div align="center">
-
-| Area | What I practice |
-|---|---|
-| 🔎 Recon | Enumeration, service fingerprinting, attack surface mapping |
-| 🌐 Web | Auth logic, API abuse, injections, file upload risks, SSRF mindset |
-| 🐧 Linux | Permissions, processes, privilege escalation paths, hardening basics |
-| 🧠 CTF | Fast hypothesis testing, exploit chains, writeups, post-solve analysis |
-| 🔐 Secure Backend | Safer API design, input validation, secrets hygiene, logging discipline |
-
-</div>
 
 ---
 
@@ -167,56 +146,11 @@ Backend Rule:  Every endpoint is an attack surface
 
 ---
 
-<h2 align="center">🧩 BUILDING STYLE</h2>
-
-```txt
-[01] Define the system boundary
-[02] Map the attack surface before writing logic
-[03] Break the problem into measurable layers
-[04] Build the backend contract first
-[05] Validate with real data, security assumptions and hardware behavior
-[06] Write short post-solve notes for CTF and security findings
-[07] Refactor until the system is boring, stable and repeatable
-```
-
----
-
 <h2 align="center">💬 RANDOM DEV SIGNAL</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote" />
 </p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="random dev joke" />
-</p>
-
----
-
-<h2 align="center">🌆 EXTRA VISUALS / PROFILE MODULES</h2>
-
-<p align="center">
-  <a href="https://skyline.github.com/">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline-3D%20Contribution%20City-00ff88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
-  </a>
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="https://img.shields.io/badge/Metrics-Advanced%20Infographics-00bcd4?style=for-the-badge&logo=githubactions&logoColor=white" alt="Metrics" />
-  </a>
-  <a href="https://github.com/gautamkrishnar/blog-post-workflow">
-    <img src="https://img.shields.io/badge/Blog%20Workflow-Dynamic%20Posts-ff0055?style=for-the-badge&logo=rss&logoColor=white" alt="Blog Post Workflow" />
-  </a>
-  <a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
-    <img src="https://img.shields.io/badge/Terminal%20Stats-Animated%20SVG-111111?style=for-the-badge&logo=gnubash&logoColor=00ff88" alt="Terminal Stats" />
-  </a>
-</p>
-
-```bash
-$ ./profile-modules.sh
-
-metrics:        ready for advanced infographics
-blog workflow:  ready for future writeups / articles
-terminal stats: optional animated terminal card
-```
 
 ---
 
@@ -238,10 +172,6 @@ Telegram: https://t.me/ALRU8
 GitHub:   https://github.com/ALRU8
 Status:   Open for team collaboration
 ```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRvejFmZ3pxbmNieHl3dDVydmxzZXhzdWR1ZWx3ZGNzOHk0OHF4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYLoPRwqwzkYJ1e/giphy.gif" height="220" alt="hacker vibe" />
-</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,50:00FF88,100:0D1117&height=120&section=footer" alt="footer" />
