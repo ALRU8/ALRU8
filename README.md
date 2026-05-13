@@ -107,6 +107,12 @@ Autonomous logistics robot system:
 
 🔗 https://github.com/ALRU8/LogistiX
 
+### ALRU_IPCAMS
+
+A multiplatform application for searching and viewing IP cameras on a wifi network
+
+🔗 https://github.com/ALRU8/ALRU_IPCAMS
+
 ---
 
 ## 📬 Establish Connection
