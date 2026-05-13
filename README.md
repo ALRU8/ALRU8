@@ -115,24 +115,21 @@ Backend Rule:  Every endpoint is an attack surface
 <h2 align="center">📊 LIVE GITHUB TELEMETRY</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ALRU8&show_icons=true&theme=transparent&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&bg_color=00000000&rank_icon=github" alt="ALRU8 GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALRU8&layout=compact&theme=transparent&hide_border=true&title_color=00FF88&text_color=C9D1D9&bg_color=00000000&langs_count=10" alt="ALRU8 top languages" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALRU8&theme=github_dark" alt="ALRU8 profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ALRU8&theme=dark&hide_border=true&background=00000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=8B949E" alt="ALRU8 streak stats" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ALRU8&theme=github_dark" alt="ALRU8 repos per language" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ALRU8&theme=github_dark" alt="ALRU8 most commit language" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ALRU8&theme=github_dark" alt="ALRU8 summary stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ALRU8&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=8B949E" alt="ALRU8 streak stats" />
 </p>
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALRU8&bg_color=0D1117&color=C9D1D9&line=00FF88&point=00BCD4&area=true&hide_border=true&custom_title=ALRU8%20Contribution%20Graph" alt="ALRU8 activity graph" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALRU8/ALRU8/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALRU8/ALRU8/output/github-contribution-grid-snake.svg" />
-    <img width="95%" src="https://raw.githubusercontent.com/ALRU8/ALRU8/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-  </picture>
 </p>
 
 <p align="center">
@@ -141,38 +138,32 @@ Backend Rule:  Every endpoint is an attack surface
 
 ---
 
-<h2 align="center">🧬 PROFILE SUMMARY CARDS</h2>
-
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALRU8&theme=github_dark" alt="profile details" />
-</p>
-
-<p align="center">
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ALRU8&theme=github_dark" alt="repos per language" />
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ALRU8&theme=github_dark" alt="most commit language" />
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ALRU8&theme=github_dark" alt="summary stats" />
-</p>
-
----
-
 <h2 align="center">🚀 FLAGSHIP PROJECTS</h2>
 
-<div align="center">
-  <a href="https://github.com/ALRU8/LogistiX">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ALRU8&repo=LogistiX&theme=transparent&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&bg_color=00000000" alt="LogistiX repository" />
-  </a>
-  <a href="https://github.com/ALRU8/ALRU_IPCAMS">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ALRU8&repo=ALRU_IPCAMS&theme=transparent&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&bg_color=00000000" alt="ALRU_IPCAMS repository" />
-  </a>
-</div>
-
-### 🤖 LogistiX
-
-Autonomous logistics robot system with YOLO object detection, QR recognition, web control interface, REST API and a hardware control layer.
-
-### 📷 ALRU_IPCAMS
-
-A multiplatform application for searching and viewing IP cameras on a Wi-Fi network.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/ALRU8/LogistiX">LogistiX</a></h3>
+      <p>Autonomous logistics robot system with YOLO object detection, QR recognition, web control interface, REST API and a hardware control layer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/YOLO-Computer%20Vision-00FFFF?style=flat-square" alt="YOLO" />
+        <img src="https://img.shields.io/badge/Arduino-Robotics-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+        <img src="https://img.shields.io/badge/REST-API-00FF88?style=flat-square" alt="REST API" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📷 <a href="https://github.com/ALRU8/ALRU_IPCAMS">ALRU_IPCAMS</a></h3>
+      <p>A multiplatform application for searching and viewing IP cameras on a Wi-Fi network.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Desktop%20Client-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Linux-Supported-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Windows-Supported-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <img src="https://img.shields.io/badge/Network-Scanner-00FF88?style=flat-square" alt="Network Scanner" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -211,9 +202,6 @@ A multiplatform application for searching and viewing IP cameras on a Wi-Fi netw
   <a href="https://github.com/lowlighter/metrics">
     <img src="https://img.shields.io/badge/Metrics-Advanced%20Infographics-00bcd4?style=for-the-badge&logo=githubactions&logoColor=white" alt="Metrics" />
   </a>
-  <a href="https://github.com/Platane/snk">
-    <img src="https://img.shields.io/badge/Snake-Contribution%20Animation-00ff88?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Snake" />
-  </a>
   <a href="https://github.com/gautamkrishnar/blog-post-workflow">
     <img src="https://img.shields.io/badge/Blog%20Workflow-Dynamic%20Posts-ff0055?style=for-the-badge&logo=rss&logoColor=white" alt="Blog Post Workflow" />
   </a>
@@ -225,7 +213,6 @@ A multiplatform application for searching and viewing IP cameras on a Wi-Fi netw
 ```bash
 $ ./profile-modules.sh
 
-snake:          enabled via GitHub Actions
 metrics:        ready for advanced infographics
 blog workflow:  ready for future writeups / articles
 terminal stats: optional animated terminal card
