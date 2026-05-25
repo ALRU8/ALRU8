@@ -52,6 +52,7 @@ Motto:   Break. Understand. Rebuild.
 |---|---|
 | Product | Backend development and mathematical expectation calculations for <a href="https://gooddrop.is/">gooddrop.is</a> |
 | Internship | Intern at <a href="https://puzzle.systems/">PUZZLE SYSTEMS</a> |
+| Internship | Intern at <a href="https://ai.tbank.ru/">T-Bank AI</a> |
 
 </div>
 
