@@ -51,6 +51,9 @@ Motto:   Break. Understand. Rebuild.
 | Signal | Payload |
 |---|---|
 | Product | Backend development and mathematical expectation calculations for <a href="https://gooddrop.is/">gooddrop.is</a> |
+| Product | Telegram bot store for <a href="https://t.me/gooddayvibes_bot">GoodVibes</a> |
+| Product | Telegram bot store for <a href="https://t.me/pivasso_bot">Pivasso</a> |
+| Product | Telegram bot for processing job applications for <a href="https://t.me/even_group_work_bot">EvenGroup</a> |
 | Internship | Intern at <a href="https://ai.tbank.ru/">T-Bank AI Team</a> |
 
 </div>
