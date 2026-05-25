@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center">🧠 SYSTEM OVERVIEW</h2>
+<h2 align="center">SYSTEM OVERVIEW</h2>
 
 ```bash
 $ cat profile.txt
@@ -44,20 +44,20 @@ Motto:   Break. Understand. Rebuild.
 
 ---
 
-<h2 align="center">📡 CURRENT MISSION</h2>
+<h2 align="center">CURRENT MISSION</h2>
 
 <div align="center">
 
 | Signal | Payload |
 |---|---|
-| 🎯 Product | Backend development and mathematical expectation calculations for <a href="https://gooddrop.is/">gooddrop.is</a> |
-| 🧩 Internship | Intern at <a href="https://puzzle.systems/">PUZZLE SYSTEMS</a> |
+| Product | Backend development and mathematical expectation calculations for <a href="https://gooddrop.is/">gooddrop.is</a> |
+| Internship | Intern at <a href="https://puzzle.systems/">PUZZLE SYSTEMS</a> |
 
 </div>
 
 ---
 
-<h2 align="center">🛠 ARSENAL</h2>
+<h2 align="center">ARSENAL</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -78,7 +78,7 @@ Motto:   Break. Understand. Rebuild.
 
 ---
 
-<h2 align="center">🛡️ CTF / CYBERSECURITY</h2>
+<h2 align="center">CTF / CYBERSECURITY</h2>
 
 ```bash
 $ nmap --profile ALRU8
@@ -91,7 +91,7 @@ Backend Rule:  Every endpoint is an attack surface
 
 ---
 
-<h2 align="center">📊 LIVE GITHUB TELEMETRY</h2>
+<h2 align="center">LIVE GITHUB TELEMETRY</h2>
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALRU8&theme=github_dark" alt="ALRU8 profile details" />
@@ -117,7 +117,7 @@ Backend Rule:  Every endpoint is an attack surface
 
 ---
 
-<h2 align="center">🚀 FLAGSHIP PROJECTS</h2>
+<h2 align="center">FLAGSHIP PROJECTS</h2>
 
 <table align="center">
   <tr>
@@ -146,7 +146,7 @@ Backend Rule:  Every endpoint is an attack surface
 
 ---
 
-<h2 align="center">💬 RANDOM DEV SIGNAL</h2>
+<h2 align="center">RANDOM DEV SIGNAL</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote" />
@@ -154,7 +154,7 @@ Backend Rule:  Every endpoint is an attack surface
 
 ---
 
-<h2 align="center">📬 ESTABLISH CONNECTION</h2>
+<h2 align="center">ESTABLISH CONNECTION</h2>
 
 <p align="center">
   <a href="https://t.me/ALRU8">
