@@ -100,13 +100,13 @@ Backend Rule:  Every endpoint is an attack surface
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALRU8&theme=github_dark" alt="ALRU8 profile details" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ALRU8&theme=github_dark" alt="ALRU8 repos per language" />
   <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ALRU8&theme=github_dark" alt="ALRU8 most commit language" />
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ALRU8&theme=github_dark" alt="ALRU8 summary stats" />
-</p>
+</p> -->
 
 <p align="center">
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ALRU8&theme=github_dark" alt="ALRU8 summary stats" />
   <img src="https://streak-stats.demolab.com?user=ALRU8&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=8B949E" alt="ALRU8 streak stats" />
 </p>
 
