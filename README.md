@@ -110,9 +110,9 @@ Backend Rule:  Every endpoint is an attack surface
   <img src="https://streak-stats.demolab.com?user=ALRU8&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=8B949E" alt="ALRU8 streak stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALRU8&bg_color=0D1117&color=C9D1D9&line=00FF88&point=00BCD4&area=true&hide_border=true&custom_title=ALRU8%20Contribution%20Graph" alt="ALRU8 activity graph" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ALRU8&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="ALRU8 trophies" />
