@@ -145,6 +145,18 @@ Backend Rule:  Every endpoint is an attack surface
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📷 <a href="https://github.com/ALRU8/People_detection">People Detection</a></h3>
+      <p>Real-time people detection API using YOLO. Detect people in images, videos, webcam streams, and screen captures via a simple Flask REST API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/YOLO-Computer%20Vision-00FFFF?style=flat-square" alt="YOLO" />
+        <img src="https://img.shields.io/badge/Flask-REST%20API-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/OpenCV-Image%20Processing-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
