@@ -156,6 +156,38 @@ Backend Rule:  Every endpoint is an attack surface
         <img src="https://img.shields.io/badge/OpenCV-Image%20Processing-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>📍 <a href="https://github.com/ALRU8/RouteGhost">RouteGhost</a></h3>
+      <p>Android GPS location simulator powered by Organic Maps. Follows map routes with realistic speeds, stops and transfers, or simulates a fixed location and custom GPX/GeoJSON tracks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-Android%20App-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Android-Mock%20Location-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Organic%20Maps-Routing-00BCD4?style=flat-square" alt="Organic Maps" />
+        <img src="https://img.shields.io/badge/GPX%20%2F%20GeoJSON-Custom%20Tracks-00FF88?style=flat-square" alt="GPX and GeoJSON" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/ALRU8/GOOL">GOOL</a></h3>
+      <p>AI-powered nature archive platform that extracts and verifies observations from scanned documents using OCR and LLMs, with searchable records, timelines and data exports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python FastAPI" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Data%20Storage-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Yandex%20Cloud-OCR%20%2B%20LLM-00BCD4?style=flat-square" alt="Yandex Cloud AI" />
+        <img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/ALRU8/IP_checker">IP_checker</a></h3>
+      <p>Cross-platform external IP and VPN safety monitor with GeoIP checks, automatic time zone adjustment and a network kill switch for defined risk conditions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Security%20Tool-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/GeoIP-IP%20Monitoring-00BCD4?style=flat-square" alt="GeoIP" />
+        <img src="https://img.shields.io/badge/VPN-Network%20Kill%20Switch-ff0055?style=flat-square" alt="VPN Kill Switch" />
+        <img src="https://img.shields.io/badge/macOS%20%7C%20Linux%20%7C%20Windows-Cross--platform-00FF88?style=flat-square" alt="Cross-platform" />
+      </p>
+    </td>
   </tr>
 </table>
 
